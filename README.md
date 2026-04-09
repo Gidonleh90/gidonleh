@@ -28,7 +28,7 @@ I love experimenting with new technologies to stay sharp and fuel my passion for
 If you're looking for a dedicated developer to join your team, or just want to say hi, I’d love to hear from you!
 
 - 💼 **LinkedIn:** [Check out my profile](www.linkedin.com/in/gadileh)
-- 📧 **Email:** [[csgadileh@gmail.com]]
+- 📧 **Email:** csgadileh@gmail.com
 - 🌐 **Portfolio:** [Visit Website](gidonleh90.github.io)
 
 ---
