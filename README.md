@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="gidonleh90.github.io">
+  <a href="https://gidonleh90.github.io">
     <img src="https://img.shields.io/badge/View%20Live%20Site-🚀-blueviolet?style=for-the-badge" alt="Live Site">
   </a>
-  <a href="www.linkedin.com/in/gadileh">
+  <a href="https://www.linkedin.com/in/gadileh">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
@@ -27,7 +27,7 @@ I love experimenting with new technologies to stay sharp and fuel my passion for
 ### 📫 Let's Connect!
 If you're looking for a dedicated developer to join your team, or just want to say hi, I’d love to hear from you!
 
-- 💼 **LinkedIn:** [Check out my profile](www.linkedin.com/in/gadileh)
+- 💼 **LinkedIn:** [Check out my profile](https://www.linkedin.com/in/gadileh)
 - 📧 **Email:** csgadileh@gmail.com
 - 🌐 **Portfolio:** [Visit Website](https://gidonleh90.github.io)
 
