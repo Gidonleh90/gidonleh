@@ -29,7 +29,7 @@ If you're looking for a dedicated developer to join your team, or just want to s
 
 - 💼 **LinkedIn:** [Check out my profile](www.linkedin.com/in/gadileh)
 - 📧 **Email:** csgadileh@gmail.com
-- 🌐 **Portfolio:** [Visit Website](gidonleh90.github.io)
+- 🌐 **Portfolio:** [Visit Website](https://gidonleh90.github.io)
 
 ---
 <p align="center">
