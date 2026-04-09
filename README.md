@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
-@@ -27,7 +27,7 @@ I love experimenting with new technologies to stay sharp and fuel my passion for
+I love experimenting with new technologies to stay sharp and fuel my passion for
 ### 📫 Let's Connect!
 If you're looking for a dedicated developer to join your team, or just want to say hi, I’d love to hear from you!
 
